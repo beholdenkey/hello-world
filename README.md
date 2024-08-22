@@ -1,2 +1,1 @@
-# hello-world
-A Proof of Concept Repository managed by Crossplane.
+This Repository is managed by Crossplane.
